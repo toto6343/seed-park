@@ -116,9 +116,16 @@ SEED-PARK 팀에서 진행한 **DaMall 종합 쇼핑몰 구축 프로젝트**의
 ## 🖼️ Screenshots
 
 ### 메인 페이지
-![메인 페이지](images/main.png)
+## 🖼️ Screenshots
 
-### 상품 상세
-![상품 상세](images/detail.png)
+### 메인 페이지
+![메인 페이지](https://github.com/user-attachments/assets/9057ce63-bcc6-467d-ba39-7a5a58f5c0c3)
+
+### 관리자 상품 등록 페이지
+![관리자 상품 등록](https://github.com/user-attachments/assets/383c162c-32b0-43b3-a064-df43e34a5b79)
+
+### 사용자 상품 목록 페이지
+![사용자 상품 목록](https://github.com/user-attachments/assets/3f6d7e26-5720-4f7e-94fb-08ec2eae8aeb)
+
 
 
